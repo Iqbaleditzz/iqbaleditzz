@@ -63,7 +63,7 @@ status      : Open to collaborations & opportunities 🟢
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iqbaleditzz&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff4130&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Iqbaleditzz&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=7fff7f&border=00ff4130" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iqbaleditzz&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=7fff7f&border=00ff4130" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -224,7 +224,7 @@ status      : Open to collaborations & opportunities 🟢
 **💡 Nursing + Code = Superpowers**
 
 ```python
-class IqbalKA:
+class Iqbaleditzz:
     def __init__(self):
         self.profession   = "Registered Nurse 👨‍⚕️"
         self.superpower   = "Full Stack Developer 💻"
@@ -318,7 +318,7 @@ class IqbalKA:
 <br/>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Iqbaleditzz/Iqbaleditzz/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 <br/>
 
