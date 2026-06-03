@@ -12,11 +12,11 @@
 
 <!-- Profile Views + Followers + Stars Row -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=iqbalka&label=Profile+Views&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Iqbaleditzz&label=Profile+Views&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/iqbalka?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/followers/Iqbaleditzz?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/iqbalka?label=Stars&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="stars" />
+  <img src="https://img.shields.io/github/stars/Iqbaleditzz?label=Stars&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="stars" />
 </p>
 
 </div>
@@ -52,7 +52,7 @@ status      : Open to collaborations & opportunities 🟢
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqbalka&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Iqbaleditzz&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -62,12 +62,12 @@ status      : Open to collaborations & opportunities 🟢
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iqbalka&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff4130&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalka&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=7fff7f&border=00ff4130" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iqbaleditzz&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff4130&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iqbaleditzz&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=7fff7f&border=00ff4130" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalka&layout=donut&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff4130&langs_count=8&hide=css" alt="Top Languages" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaleditzz&layout=donut&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff4130&langs_count=8&hide=css" alt="Top Languages" />
 
 </div>
 
@@ -77,7 +77,7 @@ status      : Open to collaborations & opportunities 🟢
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalka&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=true&custom_title=Iqbal's%20Contribution%20Graph" alt="Activity Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iqbaleditzz&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120&hide_border=true&custom_title=Iqbal's%20Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
@@ -224,7 +224,7 @@ status      : Open to collaborations & opportunities 🟢
 **💡 Nursing + Code = Superpowers**
 
 ```python
-class IqbalKA:
+class Iqbaleditzz:
     def __init__(self):
         self.profession   = "Registered Nurse 👨‍⚕️"
         self.superpower   = "Full Stack Developer 💻"
@@ -246,12 +246,12 @@ class IqbalKA:
 
 | 🏗️ Project | 📝 Description | 🔧 Stack | 🔗 |
 |-----------|----------------|----------|-----|
-| **🩺 HealthTrack Pro** | Community health monitoring & patient data dashboard | `Next.js` `PostgreSQL` `Tailwind` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/iqbalka) |
-| **🔐 SecureVault** | Encrypted credential manager with zero-knowledge architecture | `React` `Node.js` `Crypto` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/iqbalka) |
-| **🤖 NurseBot AI** | AI-powered clinical decision support chatbot for nurses | `LangChain` `FastAPI` `OpenAI` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/iqbalka) |
-| **🐧 VPS Hardening Kit** | Automated Linux VPS security hardening scripts | `Bash` `Python` `Ansible` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/iqbalka) |
-| **📊 EpiMap** | Epidemiology data visualization tool for field health workers | `React` `D3.js` `Python` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/iqbalka) |
-| **🌐 InfoSec Toolkit** | Personal OSINT & recon automation framework | `Python` `Bash` `APIs` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/iqbalka) |
+| **🩺 HealthTrack Pro** | Community health monitoring & patient data dashboard | `Next.js` `PostgreSQL` `Tailwind` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Iqbaleditzz) |
+| **🔐 SecureVault** | Encrypted credential manager with zero-knowledge architecture | `React` `Node.js` `Crypto` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Iqbaleditzz) |
+| **🤖 NurseBot AI** | AI-powered clinical decision support chatbot for nurses | `LangChain` `FastAPI` `OpenAI` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Iqbaleditzz) |
+| **🐧 VPS Hardening Kit** | Automated Linux VPS security hardening scripts | `Bash` `Python` `Ansible` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Iqbaleditzz) |
+| **📊 EpiMap** | Epidemiology data visualization tool for field health workers | `React` `D3.js` `Python` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Iqbaleditzz) |
+| **🌐 InfoSec Toolkit** | Personal OSINT & recon automation framework | `Python` `Bash` `APIs` | [![Repo](https://img.shields.io/badge/View-Repo-00ff41?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Iqbaleditzz) |
 
 </div>
 
@@ -275,12 +275,12 @@ class IqbalKA:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/iqbalka)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d1117)](https://twitter.com/iqbalka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0d1117)](https://iqbalka.dev)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:iqbalka@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/iqbalka)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=00ff41&labelColor=0d1117)](https://dev.to/iqbalka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/Iqbaleditzz)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d1117)](https://twitter.com/Iqbaleditzz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0d1117)](https://Iqbaleditzz.dev)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:Iqbaleditzz@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/Iqbaleditzz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=00ff41&labelColor=0d1117)](https://dev.to/Iqbaleditzz)
 
 </div>
 
@@ -326,8 +326,8 @@ class IqbalKA:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer&animation=twinkling" />
 
 <!-- Visitor Badge -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=iqbalka.iqbalka&left_color=0d1117&right_color=00ff41&left_text=Visitors" alt="visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Iqbaleditzz.Iqbaleditzz&left_color=0d1117&right_color=00ff41&left_text=Visitors" alt="visitors" />
 
-<sub>⚡ Built with passion, caffeine, and clinical precision by <a href="https://github.com/iqbalka">Iqbal K A</a> — Nurse. Hacker. Builder.</sub>
+<sub>⚡ Built with passion, caffeine, and clinical precision by <a href="https://github.com/Iqbaleditzz">Iqbal K A</a> — Nurse. Hacker. Builder.</sub>
 
 </div>
