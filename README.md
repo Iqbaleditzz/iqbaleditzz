@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Iqbal%20K%20A&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Nurse%20%7C%20Hacker%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=000000&animation=twinkling" />
 
 <!-- Typing SVG Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=👨‍⚕️+Registered+Nurse+%26+Health+Researcher;🔐+Cybersecurity+Enthusiast+%26+CTF+Player;💻+Full+Stack+Developer+(Next.js+%2F+React);🐧+Linux+Administrator+%26+VPS+Engineer;🤖+AI+%26+Automation+Builder;🌐+Community+Health+Technology+Advocate"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=👨‍⚕️+Registered+Nurse+%26+Health+Researcher;🔐+Cybersecurity+Enthusiast+%26+CTF+Player;💻+Full+Stack+Developer+(Next.js+%2F+React);🐧+Linux+Administrator+%26+VPS+Engineer;🤖+AI+%26+Automation+Builder;🌐+Community+Health+Technology+Advocate"  alt="Typing SVG" />
 
 <br/>
 
@@ -43,31 +43,6 @@ mission     : "Bridging the gap between healthcare and technology —
                one line of code, one patient at a time."
 status      : Open to collaborations & opportunities 🟢
 ```
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Iqbaleditzz&theme=matrix&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iqbaleditzz&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff4130&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Iqbaleditzz&theme=matrix&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=7fff7f&border=00ff4130" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaleditzz&layout=donut&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff4130&langs_count=8&hide=css" alt="Top Languages" />
-
-</div>
 
 ---
 
