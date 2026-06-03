@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Iqbal%20K%20A&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Nurse%20%7C%20Hacker%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=7fff7f&animation=twinkling" />
 
 <!-- Typing SVG Banner -->
-
+https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=👨‍⚕️+Registered+Nurse+%26+Health+Researcher;🔐+Cybersecurity+Enthusiast+%26+CTF+Player;💻+Full+Stack+Developer+(Next.js+%2F+React);🐧+Linux+Administrator+%26+VPS+Engineer;🤖+AI+%26+Automation+Builder;🌐+Community+Health+Technology+Advocate
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=👨‍⚕️+Registered+Nurse+%26+Health+Researcher;🔐+Cybersecurity+Enthusiast+%26+CTF+Player;💻+Full+Stack+Developer+(Next.js+%2F+React);🐧+Linux+Administrator+%26+VPS+Engineer;🤖+AI+%26+Automation+Builder;🌐+Community+Health+Technology+Advocate" alt="Typing SVG" />
 
 <br/>
