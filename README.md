@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Iqbal%20K%20A&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Nurse%20%7C%20Hacker%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=39ff14&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Iqbal%20K%20A&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Nurse%20%7C%20Hacker%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=000000&animation=twinkling" />
 
 <!-- Typing SVG Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=👨‍⚕️+Registered+Nurse+%26+Health+Researcher;🔐+Cybersecurity+Enthusiast+%26+CTF+Player;💻+Full+Stack+Developer+(Next.js+%2F+React);🐧+Linux+Administrator+%26+VPS+Engineer;🤖+AI+%26+Automation+Builder;🌐+Community+Health+Technology+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=👨‍⚕️+Registered+Nurse+%26+Health+Researcher;🔐+Cybersecurity+Enthusiast+%26+CTF+Player;💻+Full+Stack+Developer+(Next.js+%2F+React);🐧+Linux+Administrator+%26+VPS+Engineer;🤖+AI+%26+Automation+Builder;🌐+Community+Health+Technology+Advocate"  alt="Typing SVG" />
 
 <br/>
 
@@ -43,24 +43,6 @@ mission     : "Bridging the gap between healthcare and technology —
                one line of code, one patient at a time."
 status      : Open to collaborations & opportunities 🟢
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iqbaleditzz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbaleditzz&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iqbaleditzz&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
-
-</div>
 
 ---
 
@@ -309,7 +291,7 @@ class IqbalKA:
 <br/>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Iqbaleditzz/Iqbaleditzz/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 <br/>
 
