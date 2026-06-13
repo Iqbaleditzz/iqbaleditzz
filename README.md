@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Iqbal%20K%20A&fontSize=60&fontColor=FFD700&stroke=000000&strokeWidth=2&fontAlignY=38&desc=Nurse%20%7C%20Hacker%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=FFFFFF&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=IQBAL%20K%20A&fontSize=60&fontColor=FFD700&stroke=000000&strokeWidth=2&fontAlignY=38&desc=Nurse%20%7C%20Hacker%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=FFFFFF&animation=twinkling" />
 
 <!-- Typing SVG Banner -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF48C700&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F+Registered+Nurse+%26+Health+Researcher+;+%F0%9F%94%90+Cybersecurity+Enthusiast+%26+CTF+Player++;%F0%9F%92%BB+Full+Stack+Developer+(Next.js+%2F+React)++;%F0%9F%90%A7+Linux+Administrator+%26+VPS+Engineer++;%F0%9F%A4%96+AI+%26+Automation+Builder++;%F0%9F%8C%90+Community+Health+Technology+Advocate" alt="Typing SVG" /></a>
