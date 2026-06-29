@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=IQBAL%20K%20A&fontSize=60&fontColor=FFD700&stroke=000000&strokeWidth=2&fontAlignY=38&desc=Nurse%20%7C%20Hacker%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=FFFFFF&animation=twinkling" />
 
 <!-- Typing SVG Banner -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF48C700&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F+Registered+Nurse+%26+Health+Researcher+;+%F0%9F%94%90+Cybersecurity+Enthusiast+%26+CTF+Player++;%F0%9F%92%BB+Full+Stack+Developer+(Next.js+%2F+React)++;%F0%9F%90%A7+Linux+Administrator+%26+VPS+Engineer++;%F0%9F%A4%96+AI+%26+Automation+Builder++;%F0%9F%8C%90+Community+Health+Technology+Advocate" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FF48C700&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F+Registered+Nurse+%26+Health+Researcher+;+%F0%9F%94%90+Cybersecurity+Enthusiast+%26+CTF+Player++;%F0%9F%92%BB+Full+Stack+Developer+(Next.js+%2F+React)++;%F0%9F%90%A7+Linux+Administrator+%26+VPS+Engineer++;%F0%9F%A4%96+AI+%26+Automation+Builder++;%F0%9F%8C%90+Community+Health+Technology+Advocate;%F0%9F%8E%AE+Gamer+%7C+GTA+V+%7C+PUBG+%7C+eFootball" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ```yaml
 name        : Iqbal K A
-role        : Nurse | Full Stack Developer | Cybersecurity Enthusiast
+role        : Nurse | Full Stack Developer | Cybersecurity Enthusiast | Gamer
 location    : Kerala, India 🇮🇳
 education   : Nursing + Self-Taught Developer
 focus       :
@@ -39,6 +39,7 @@ focus       :
   - Full Stack Web Development (Next.js / React)
   - Linux Administration & VPS Management
   - AI / ML Automation & Tooling
+  - Gaming (GTA V · PUBG · eFootball · EA Sports FC)
 mission     : "Bridging the gap between healthcare and technology —
                one line of code, one patient at a time."
 status      : Open to collaborations & opportunities 🟢
@@ -213,6 +214,58 @@ class IqbalKA:
 
 ---
 
+## 🎮 Gaming Arena
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              🕹️  PLAYER ONE HAS ENTERED THE GAME  🕹️            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+> *"Same precision I use to read a patient's vitals — I use to read the mini-map."*
+
+<div align="left">
+
+**🏆 Games I Play**
+
+| 🎮 Game | 🎯 Playstyle | ⚡ Skill Level |
+|---------|-------------|---------------|
+| 🌆 **GTA V / GTA Online** | Open World · Heists · RP | `Street Legend` |
+| 🔫 **PUBG Mobile / PC** | Tactical Shooter · Squad · Solo | `Diamond Rank` |
+| ⚽ **eFootball (PES)** | Football Simulation · Dream Team | `Top Rated` |
+| 🏟️ **EA Sports FC** | Career Mode · Ultimate Team · FUT | `Elite Division` |
+
+</div>
+
+<div align="left">
+
+![GTA V](https://img.shields.io/badge/GTA_V-0d1117?style=for-the-badge&logo=rockstargames&logoColor=FCAF17)
+![PUBG](https://img.shields.io/badge/PUBG-0d1117?style=for-the-badge&logo=pubg&logoColor=F2A900)
+![eFootball](https://img.shields.io/badge/eFootball-0d1117?style=for-the-badge&logo=konami&logoColor=CC0000)
+![EA Sports FC](https://img.shields.io/badge/EA_Sports_FC-0d1117?style=for-the-badge&logo=ea&logoColor=FF4500)
+![Steam](https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=1b2838)
+![PlayStation](https://img.shields.io/badge/PlayStation-0d1117?style=for-the-badge&logo=playstation&logoColor=003087)
+
+</div>
+
+```bash
+┌──(iqbal㉿gamer)-[~/gaming]
+└─$ cat gamer_stats.json
+```
+
+```json
+{
+  "gamer_tag"    : "IqbalEditzz",
+  "main_genres"  : ["Open World", "Battle Royale", "Football Sim"],
+  "playtime_hrs" : "countless...",
+  "favorite_map" : "Erangel (PUBG) · Los Santos (GTA V)",
+  "dream_team"   : "Building the perfect eFootball squad 🏆",
+  "gamer_quote"  : "I don't rage quit. I debug my strategy."
+}
+```
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -286,6 +339,7 @@ class IqbalKA:
 🌱 &nbsp; Learning **Rust · Advanced Penetration Testing · Cloud Security**  
 👯 &nbsp; Open to collaborate on **Healthcare Tech & Cybersecurity Projects**  
 💬 &nbsp; Ask me about **Next.js · Linux · Nursing Informatics · Infosec**  
+🎮 &nbsp; Currently grinding **GTA Online Heists & PUBG ranked matches**  
 ⚡ &nbsp; Fun fact: **I can diagnose a network intrusion and a pneumothorax with equal confidence**
 
 <br/>
@@ -301,6 +355,6 @@ class IqbalKA:
 <!-- Visitor Badge -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Iqbaleditzz.Iqbaleditzz&left_color=0d1117&right_color=00ff41&left_text=Visitors" alt="visitors" />
 
-<sub>⚡ Built with passion, caffeine, and clinical precision by <a href="https://github.com/Iqbaleditzz">Iqbal K A</a> — Nurse. Hacker. Builder.</sub>
+<sub>⚡ Built with passion, caffeine, and clinical precision by <a href="https://github.com/Iqbaleditzz">Iqbal K A</a> — Nurse. Hacker. Builder. Gamer.</sub>
 
 </div>
